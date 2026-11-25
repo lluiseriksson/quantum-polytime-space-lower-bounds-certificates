@@ -1,0 +1,14 @@
+[project]
+name = "quantum-polytime-space-lower-bounds-certificates"
+version = "1.0.0"
+description = "Machine-checked exact-integer certificates for polynomial-time quantum space lower bounds and sublogarithmic hierarchies"
+authors = [{ name = "Lluis Eriksson" }]
+license = { text = "MIT" }
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "matplotlib>=3.8", "numpy>=1.26"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

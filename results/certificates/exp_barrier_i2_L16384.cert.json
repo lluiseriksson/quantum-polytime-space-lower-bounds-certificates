@@ -1,0 +1,14 @@
+{
+  "schema": "QUANTUM-SPACE-LB-CERT-1.0",
+  "mode": "sublog_space_exponent_barrier_exact",
+  "name": "mode4_barrier_i2",
+  "level_i": 2,
+  "log_n_L": 16384,
+  "loglog_n_M": 15,
+  "d2": "2/5",
+  "b0": "1/2",
+  "a0": "1/4",
+  "poly_deg_c": 50,
+  "claimed_F_lb": "22528/1125",
+  "claimed_exp_margin": "51607552/225"
+}

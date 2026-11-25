@@ -1,0 +1,20 @@
+import QuantumSpaceLowerBounds
+
+#print axioms QuantumSpaceLowerBounds.zk_word_problem_cancel_zero
+#print axioms QuantumSpaceLowerBounds.zk_distinct_displacement_dissimilar
+#print axioms QuantumSpaceLowerBounds.zk_unary_encoding_len_bound
+#print axioms QuantumSpaceLowerBounds.zk_ball_1d_exact
+#print axioms QuantumSpaceLowerBounds.zk_ball_2d_exact
+#print axioms QuantumSpaceLowerBounds.zk_ball_3d_exact_cleared
+#print axioms QuantumSpaceLowerBounds.poly_degree_domination
+#print axioms QuantumSpaceLowerBounds.remscrim_2qcfa_exp_u_pos
+#print axioms QuantumSpaceLowerBounds.binary_len_pos
+#print axioms QuantumSpaceLowerBounds.binary_counter_step_gap
+#print axioms QuantumSpaceLowerBounds.binary_counter_monotone_len
+#print axioms QuantumSpaceLowerBounds.palindrome_prefix_half_even
+#print axioms QuantumSpaceLowerBounds.palindrome_dissimilarity_exact_pow2
+#print axioms QuantumSpaceLowerBounds.palindrome_reverse_involution
+#print axioms QuantumSpaceLowerBounds.distinct_left_halves_separated
+#print axioms QuantumSpaceLowerBounds.space_gap_halving_positive
+#print axioms QuantumSpaceLowerBounds.double_exp_beats_poly_exponent
+#print axioms QuantumSpaceLowerBounds.superpoly_pow2_dominates_linear

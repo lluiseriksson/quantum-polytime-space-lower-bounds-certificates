@@ -1,0 +1,12 @@
+{
+  "schema": "QUANTUM-SPACE-LB-CERT-1.0",
+  "mode": "sublog_hierarchy_Li_membership_exact",
+  "name": "mode3_Li_i0_k15",
+  "level_i": 0,
+  "counter_k": 15,
+  "upper_track": "0$1$10$11$100$101$110$111$1000$1001$1010$1011$1100$1101$1110$1111",
+  "lower_track": "1000110000110001#################################################",
+  "claimed_N_k": 65,
+  "claimed_j_k": 16,
+  "claimed_dissim_log2": 8
+}

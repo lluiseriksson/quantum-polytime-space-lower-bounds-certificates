@@ -1,0 +1,59 @@
+{
+  "experiment": "exp3_counter_and_Li_scaling",
+  "rows": [
+    {
+      "counter_k": 7,
+      "N_k": 25,
+      "L_bits": 3,
+      "M_bits": 2,
+      "j_i0": 8,
+      "j_i1": 4,
+      "j_i2": 2
+    },
+    {
+      "counter_k": 15,
+      "N_k": 65,
+      "L_bits": 4,
+      "M_bits": 3,
+      "j_i0": 16,
+      "j_i1": 4,
+      "j_i2": 2
+    },
+    {
+      "counter_k": 31,
+      "N_k": 161,
+      "L_bits": 5,
+      "M_bits": 3,
+      "j_i0": 32,
+      "j_i1": 4,
+      "j_i2": 2
+    },
+    {
+      "counter_k": 63,
+      "N_k": 385,
+      "L_bits": 6,
+      "M_bits": 3,
+      "j_i0": 64,
+      "j_i1": 4,
+      "j_i2": 2
+    },
+    {
+      "counter_k": 127,
+      "N_k": 897,
+      "L_bits": 7,
+      "M_bits": 3,
+      "j_i0": 128,
+      "j_i1": 8,
+      "j_i2": 2
+    },
+    {
+      "counter_k": 255,
+      "N_k": 2049,
+      "L_bits": 8,
+      "M_bits": 4,
+      "j_i0": 256,
+      "j_i1": 4,
+      "j_i2": 2
+    }
+  ]
+}

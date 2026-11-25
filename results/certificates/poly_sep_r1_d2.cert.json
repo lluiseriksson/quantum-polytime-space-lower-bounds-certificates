@@ -1,0 +1,12 @@
+{
+  "schema": "QUANTUM-SPACE-LB-CERT-1.0",
+  "mode": "poly_degree_2qcfa_separation_exact",
+  "name": "mode2_2qcfa_r1_d2",
+  "remscrim_c": 1,
+  "qubits_r": 1,
+  "states_d": 2,
+  "claimed_u": 64,
+  "dim_k": 65,
+  "const_ck": 100,
+  "witness_n": 128
+}
